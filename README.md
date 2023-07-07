@@ -30,10 +30,7 @@
 
   
 </div>
-  
-<h3>Profile Visits</h3>
-  
-![visitors](https://komarev.com/ghpvc/?username=gpinary&color=blue)
+
 
 
 
